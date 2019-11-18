@@ -1,0 +1,29 @@
+C:\Users\aluno\Desktop\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+G:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+G:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe
+G:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.pdb
+G:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csprojResolveAssemblyReference.cache
+G:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+G:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
+I:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+I:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+I:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
+I:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe
+I:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.pdb
+I:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csprojResolveAssemblyReference.cache
+J:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+J:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+J:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
+J:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe
+J:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.pdb
+J:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csprojResolveAssemblyReference.cache
+E:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+E:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+E:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.pdb
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csprojAssemblyReference.cache
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
